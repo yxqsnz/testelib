@@ -2,5 +2,5 @@
   "Authors":["yxqsnz"],
   "Platforms":["linux"],
   "AptDependencies":["firefox"],
-  "OptionalInstallCommands":["nautilus"]
+  "OptionalInstallCommands":["nautilus","apt install code -y","apt upgrade -y","uname -r","free -h"]
 }
