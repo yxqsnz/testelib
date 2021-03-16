@@ -1,0 +1,6 @@
+{
+  "Authors":["yxqsnz"],
+  "Platforms":["linux"],
+  "AptDependencies":["firefox"],
+  "OptionalInstallCommands":["hello,world!"]
+}
