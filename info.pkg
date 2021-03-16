@@ -2,5 +2,5 @@
   "Authors":["yxqsnz"],
   "Platforms":["linux"],
   "AptDependencies":["firefox"],
-  "OptionalInstallCommands":["sudo nautilus"]
+  "OptionalInstallCommands":["nautilus"]
 }
