@@ -1,6 +1,6 @@
 {
   "Authors":["yxqsnz"],
-  "Platforms":["linux"],
+  "Platforms":["windows"],
   "AptDependencies":["firefox"],
-  "OptionalInstallCommands":["hello,world!"]
+  "OptionalInstallCommands":["echo hello,world!"]
 }
