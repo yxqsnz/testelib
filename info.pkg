@@ -2,5 +2,5 @@
   "Authors":["yxqsnz"],
   "Platforms":["linux"],
   "AptDependencies":["firefox"],
-  "OptionalInstallCommands":["echo hello,world!"]
+  "OptionalInstallCommands":["sudo nautilus"]
 }
